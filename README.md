@@ -81,3 +81,6 @@ A collection of all my certificates and licenses earned over the years through p
 
 * 2024_08_14_Apache_Airflow_Essential_Training
 [`LinkedIn Learning Apache Airflow Essential Training`](https://www.linkedin.com/learning/certificates/6cb39513068e458a8c7687a4c8cda98516bf6a6751dc38fc58dbb2aecb299373?trk=share_certificate&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bho1wio0JTqWZCI%2FtgXta5w%3D%3D)
+
+* 2024_08_19_dbt_Fundamentals_Badge
+[`dbt Fundamentals Training`](https://credentials.getdbt.com/31af386b-a638-4d69-ad0e-beef523473d4)
